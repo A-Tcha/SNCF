@@ -11,7 +11,7 @@ The script sncf_get_data.py fetches the data for every days within the date rang
 
 
 Notes:
-The project is still ongoing  
+The project is still ongoing. The finalzed version of the script and Tableau dashoard will be published as soon as possible.
 
 
 

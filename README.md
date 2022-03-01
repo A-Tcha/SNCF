@@ -2,7 +2,7 @@
 
 This a personal project using data from SNCF (French National railway company). The data set used is about objects which have been found in trains. The main goal of this project is to vizualize objects found on a map.
 
-The data is available in Tableau on this link: https://public.tableau.com/app/profile/adrien3276/viz/SNCF-LostFoundObject/Feuille2
+The data is available in Tableau on this link: https://public.tableau.com/app/profile/adrien3276/viz/SNCF-LostFoundObject/Dashboard1
 
 More informartion about the data can be found here: https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/api/?sort=date
 

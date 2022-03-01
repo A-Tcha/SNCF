@@ -7,11 +7,11 @@ The data is available in Tableau on this link: https://public.tableau.com/app/pr
 More informartion about the data can be found here: https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/api/?sort=date
 
 
-The script sncf_get_data.py fetches the data for every days within the date range selected. Once the script is finished, the output is saved as an Excel file (.xlsx). The Excel file is then used for building the map in Tableau.
+The script sncf_script.py fetches the data for every days within the date range selected. Once the script is finished, the output is saved as an Excel file (.xlsx). The Excel file is then used for building the map in Tableau.
 
 
 Notes:
-The project is still ongoing. The finalzed version of the script and Tableau dashoard will be published as soon as possible.
+The project is still ongoing. Updates will be published regurlary. 
 
 
 

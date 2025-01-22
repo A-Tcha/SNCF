@@ -1,4 +1,4 @@
-# SNCF - Objects lost on trains (France)
+# SNCF - Lost objects in trains (France)
 
 This a personal project using data from SNCF (French National railway company). The data set used is about objects which have been found in trains. The main goal of this project is to visualize objects found on a map.
 
@@ -15,4 +15,4 @@ The script sncf_script.py fetches the data for every days within the date range 
 
 
 Notes:
-The project is still ongoing. Updates will be published regurlary. 
+The project is still ongoing. Updates will be published regularly. 

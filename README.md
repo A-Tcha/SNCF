@@ -6,8 +6,6 @@ This a personal project using data from SNCF (French National railway company). 
 The data is available in Power BI on this [link](https://app.powerbi.com/view?r=eyJrIjoiM2IzOGEyMDMtMjc2Ni00ZjIwLTliNTEtMjJkYTUwMzMzYWIyIiwidCI6IjllMDA2ZDc1LTk4YzgtNDhkMi1iNmI0LTEyMzc4Y2M3OWViMSJ9&pageName=8163f93de0fe84b9bbf1
 ) 
 
-The data is available in Tableau on this [link](https://public.tableau.com/app/profile/adrien3276/viz/SNCF-LostFoundObject/Dashboard1)
-
 More information about the data can be found here: https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/api/?sort=date
 
 

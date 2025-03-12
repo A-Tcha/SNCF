@@ -5,7 +5,7 @@ Ce projet personnel recense les objets trouvés de la part des voyageurs dans le
 )
 
 
-La source de données est accessible avec ce lien : https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/api/?sort=date
+La source de données est accessible avec ce lien : https://ressources.data.sncf.com/
 
 # SNCF - Lost objects in trains (France)
 
@@ -15,7 +15,7 @@ This a personal project using data from SNCF (French National railway company). 
 The data is available in Power BI on this [link](https://app.powerbi.com/view?r=eyJrIjoiM2IzOGEyMDMtMjc2Ni00ZjIwLTliNTEtMjJkYTUwMzMzYWIyIiwidCI6IjllMDA2ZDc1LTk4YzgtNDhkMi1iNmI0LTEyMzc4Y2M3OWViMSJ9&pageName=8163f93de0fe84b9bbf1
 ) 
 
-More information about the data can be found here: https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/api/?sort=date
+More information about the data can be found here: https://ressources.data.sncf.com/
 
 
 The script sncf_script.py fetches the data for every days within the date range selected. Once the script is finished, the output is saved as an Excel file (.xlsx). The Excel file is then used for building the dashboard in Power BI and Tableau.

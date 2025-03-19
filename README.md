@@ -13,9 +13,6 @@ This a personal project using data from SNCF (French National railway company). 
 
 [Click here to see the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZjQzNDI2MWEtNTkzNy00ZWYxLTkzOGEtOTJkOWYyNTJiNTNlIiwidCI6IjllMDA2ZDc1LTk4YzgtNDhkMi1iNmI0LTEyMzc4Y2M3OWViMSJ9)
 
-The data is available in Power BI on this [link](https://app.powerbi.com/view?r=eyJrIjoiM2IzOGEyMDMtMjc2Ni00ZjIwLTliNTEtMjJkYTUwMzMzYWIyIiwidCI6IjllMDA2ZDc1LTk4YzgtNDhkMi1iNmI0LTEyMzc4Y2M3OWViMSJ9&pageName=8163f93de0fe84b9bbf1
-) 
-
 More information about the data can be found here: https://ressources.data.sncf.com/
 
 
